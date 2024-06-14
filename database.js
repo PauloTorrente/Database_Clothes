@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 
 const MONGO_DB_NAME = 'e-commerce';
-const MONGO_URL = 'mongodb+srv://Torrente:minecra1234@cluster0.myhkmuj.mongodb.net/';
+const MONGO_URL = 'mongodb+srv://Torrente:minjfdjdsfnsjkf@cluster0.myhkmuj.mongodb.net/';
 
 const connectionConfig = { dbName: MONGO_DB_NAME, autoIndex: true };
 mongoose.set('strictQuery', true);
